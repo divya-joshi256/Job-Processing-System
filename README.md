@@ -57,12 +57,6 @@ j1: 5 COMPLETED
 j2: 2666664666667000000 COMPLETED
 ```
 
-## Limitations
-
-* No job priorities or retry mechanism
-* No progress tracking
-* Jobs are stored only in memory
-* Running jobs cannot be forcibly cancelled
 
 ## Future Improvements
 
